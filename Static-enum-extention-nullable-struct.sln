@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static-enum-extention-nullable-struct", "Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct.csproj", "{95F7F39C-8F8A-4180-B3A7-0A005F983111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F7F39C-8F8A-4180-B3A7-0A005F983111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F7F39C-8F8A-4180-B3A7-0A005F983111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F7F39C-8F8A-4180-B3A7-0A005F983111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F7F39C-8F8A-4180-B3A7-0A005F983111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5090097C-21A6-40CA-AFA8-584CB9AD50E9}
+	EndGlobalSection
+EndGlobal

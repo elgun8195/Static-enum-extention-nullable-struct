@@ -1,0 +1,14 @@
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\bin\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.exe
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\bin\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.deps.json
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\bin\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.runtimeconfig.json
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\bin\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.runtimeconfig.dev.json
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\bin\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.dll
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\bin\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.pdb
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\obj\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.csproj.AssemblyReference.cache
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\obj\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\obj\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.AssemblyInfoInputs.cache
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\obj\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.AssemblyInfo.cs
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\obj\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.csproj.CoreCompileInputs.cache
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\obj\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.dll
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\obj\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.pdb
+C:\Users\Elgun\Desktop\Static-enum-extention-nullable-struct\Static-enum-extention-nullable-struct\obj\Debug\netcoreapp3.1\Static-enum-extention-nullable-struct.genruntimeconfig.cache
